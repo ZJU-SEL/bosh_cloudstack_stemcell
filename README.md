@@ -1,4 +1,7 @@
-BOSH_CLOUDSTACK_STEMCELL
+bosh_cloudstack_stemcell
 ========================
 
-Here provides a BOSH CloudStack stemcell for downloading.
+Following below URL, you can download a BOSH CloudStack stemcell for downloading.
+https://sourceforge.net/projects/boshcloudstackstemcell/
+
+Thanks.
